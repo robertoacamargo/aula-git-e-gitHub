@@ -1,2 +1,2 @@
 <!--md é uma extensão de markdow-->
-Hello word of git!
+Hello world of git!
